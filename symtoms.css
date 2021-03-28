@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+body{
+    font-family: 'Akaya Telivigala', cursive;
+    background-image: url(https://i.pinimg.com/originals/42/7c/47/427c47e1e7ad137bae2f7ead73507e5b.jpg); 
+    background-size:100% 100% ;
+}
+
+   
+  
+  footer{
+    background-color: rgb(247, 228, 65);
+    text-align: center;
+    font-size: 20px;
+   }
+  
+
+
+
+  img{
+      height: 40%;
+      width: 30%;  
+  }
+
+
+  p{
+      color: maroon;
+    font-size: 30px;
+    
+  }
+
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+  }
+
+ 
